@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Crete+Round);
+
+
+body .ui-body-c{
+    font-family:"Crete Round", serif;
+    background-image:url('Category_Images/LNDR_Background_C.png');
+    background-size: cover;
+}
+
+
+.ui-header, .ui-footer, .ui-btn-text{
+	font-family:"Crete Round", serif;
+}
+
+
+
+.ui-title {
+    margin: 0.6em 10% 0.8em !important;
+}
+
+.ui-field-contain{
+    border-bottom-width:1px;
+    padding-bottom:1.5em;
+}
